@@ -1,0 +1,14 @@
+C:\Tosker\SingularCommand\SingularCommand\bin\Debug\SingularCommand.exe.config
+C:\Tosker\SingularCommand\SingularCommand\bin\Debug\SingularCommand.exe
+C:\Tosker\SingularCommand\SingularCommand\bin\Debug\SingularCommand.pdb
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand.csprojAssemblyReference.cache
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\MainWindow.g.cs
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\App.g.cs
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand_MarkupCompile.cache
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand_MarkupCompile.lref
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\MainWindow.baml
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand.g.resources
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand.Properties.Resources.resources
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand.csproj.GenerateResource.cache
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand.exe
+C:\Tosker\SingularCommand\SingularCommand\obj\Debug\SingularCommand.pdb

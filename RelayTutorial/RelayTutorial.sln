@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelayTutorial", "RelayTutorial\RelayTutorial.csproj", "{C004DFC4-BD65-41B0-BA56-365D47B312C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C004DFC4-BD65-41B0-BA56-365D47B312C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C004DFC4-BD65-41B0-BA56-365D47B312C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C004DFC4-BD65-41B0-BA56-365D47B312C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C004DFC4-BD65-41B0-BA56-365D47B312C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E0645E-B949-4554-9A40-DB6E350AED93}
+	EndGlobalSection
+EndGlobal

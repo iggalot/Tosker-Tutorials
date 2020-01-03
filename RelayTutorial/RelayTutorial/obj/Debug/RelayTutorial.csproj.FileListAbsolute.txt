@@ -1,0 +1,14 @@
+C:\Tosker\RelayTutorial\RelayTutorial\bin\Debug\RelayTutorial.exe.config
+C:\Tosker\RelayTutorial\RelayTutorial\bin\Debug\RelayTutorial.exe
+C:\Tosker\RelayTutorial\RelayTutorial\bin\Debug\RelayTutorial.pdb
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial.csprojAssemblyReference.cache
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\MainWindow.g.cs
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\App.g.cs
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial_MarkupCompile.cache
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial_MarkupCompile.lref
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\MainWindow.baml
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial.g.resources
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial.Properties.Resources.resources
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial.csproj.GenerateResource.cache
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial.exe
+C:\Tosker\RelayTutorial\RelayTutorial\obj\Debug\RelayTutorial.pdb
